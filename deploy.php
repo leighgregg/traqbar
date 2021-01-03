@@ -34,11 +34,6 @@ host('192.46.236.198')
     ->multiplexing(true)
     ->set('deploy_path', '/var/www/{{application}}');   
 
-
-
-
-
-    
 // Tasks
 
 task('build', function () {
