@@ -94,7 +94,14 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel's robust library of first-party tools and libraries, such as <a href="https://forge.laravel.com" class="underline">Forge</a>, <a href="https://vapor.laravel.com" class="underline">Vapor</a>, <a href="https://nova.laravel.com" class="underline">Nova</a>, and <a href="https://envoyer.io" class="underline">Envoyer</a> help you take your projects to the next level. Pair them with powerful open source libraries like <a href="https://laravel.com/docs/billing" class="underline">Cashier</a>, <a href="https://laravel.com/docs/dusk" class="underline">Dusk</a>, <a href="https://laravel.com/docs/broadcasting" class="underline">Echo</a>, <a href="https://laravel.com/docs/horizon" class="underline">Horizon</a>, <a href="https://laravel.com/docs/sanctum" class="underline">Sanctum</a>, <a href="https://laravel.com/docs/telescope" class="underline">Telescope</a>, and more.
+                                    <a href="https://traqbar.com" class="underline">Traqbar</a><br>
+                                    <a href="https://membership.traqbar.com" class="underline">Membership</a><br>
+                                    <a href="https://module.traqbar.com" class="underline">Module</a><br>
+                                    <a href="https://template.traqbar.com" class="underline">Template</a><br>
+                                    <a href="https://developer.traqbar.com" class="underline">Developer</a><br>
+                                    <a href="https://mobile.traqbar.com" class="underline">Mobile</a><br>
+                                    <a href="https://design.traqbar.com" class="underline">Design</a><br>
+                                    <a href="https://market.traqbar.com" class="underline">Market</a><br>
                                 </div>
                             </div>
                         </div>
