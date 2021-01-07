@@ -95,13 +95,14 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <a href="https://traqbar.com" class="underline">Traqbar</a><br>
-                                    <a href="https://membership.traqbar.com" class="underline">Membership</a><br>
+                                    <a href="https://member.traqbar.com" class="underline">Memberships</a><br>
                                     <a href="https://module.traqbar.com" class="underline">Module</a><br>
+                                {{--     <hr>
                                     <a href="https://template.traqbar.com" class="underline">Template</a><br>
                                     <a href="https://developer.traqbar.com" class="underline">Developer</a><br>
                                     <a href="https://mobile.traqbar.com" class="underline">Mobile</a><br>
                                     <a href="https://design.traqbar.com" class="underline">Design</a><br>
-                                    <a href="https://market.traqbar.com" class="underline">Market</a><br>
+                                    <a href="https://market.traqbar.com" class="underline">Market</a><br> --}}
                                 </div>
                             </div>
                         </div>

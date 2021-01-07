@@ -30,7 +30,7 @@ host('192.46.236.198')
     ->port(22)
     #->configFile('~/.ssh/config')
     #->identityFile('~/.ssh/id_rsa')
-    ->forwardAgent(false)
+    ->forwardAgent(true)
     ->multiplexing(true)
     ->set('deploy_path', '/var/www/{{application}}');   
 
