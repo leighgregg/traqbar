@@ -95,7 +95,7 @@
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <a href="https://traqbar.com" class="underline">Traqbar</a><br>
-                                    <a href="https://member.traqbar.com" class="underline">Memberships</a><br>
+                                    <a href="https://member.traqbar.com" class="underline">Member</a><br>
                                     <a href="https://module.traqbar.com" class="underline">Module</a><br>
                                 {{--     <hr>
                                     <a href="https://template.traqbar.com" class="underline">Template</a><br>
