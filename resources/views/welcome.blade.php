@@ -97,6 +97,7 @@
                                     <a href="https://traqbar.com" class="underline">Traqbar</a><br>
                                     <a href="https://member.traqbar.com" class="underline">Member</a><br>
                                     <a href="https://module.traqbar.com" class="underline">Module</a><br>
+                                    <a href="https://guide.traqbar.com" class="underline">Guide</a><br>
                                 {{--     <hr>
                                     <a href="https://template.traqbar.com" class="underline">Template</a><br>
                                     <a href="https://developer.traqbar.com" class="underline">Developer</a><br>
